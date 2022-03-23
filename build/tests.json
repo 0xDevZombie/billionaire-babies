@@ -1,0 +1,64 @@
+{
+  "contracts": {
+    "BillionaireBabies": "b2ca3f9a20ce17423c73f8e686355efc91f7a707",
+    "BillionaireBabiesIncubator": "1fd32df1d5c5051f9819afaaf0c5d497fd41ec01",
+    "OpenZeppelin/openzeppelin-contracts@4.4.2/Counters": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "OpenZeppelin/openzeppelin-contracts@4.4.2/ERC1155": "92433770588be068d92115cc5c03076063623682",
+    "OpenZeppelin/openzeppelin-contracts@4.4.2/ERC721": "f1489d4c38c27378f4844e9838ad9185ef5c6a92",
+    "OpenZeppelin/openzeppelin-contracts@4.4.2/MerkleProof": "1ce946f6a4eaa185320328620ccf999b9e86db7c",
+    "OpenZeppelin/openzeppelin-contracts@4.4.2/SafeMath": "1ce946f6a4eaa185320328620ccf999b9e86db7c"
+  },
+  "tests": {
+    "tests/BillionaireBabies/test_burn_mint.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "..",
+      "sha1": "2d6b694e749b3983201650d34467db29b4bfc9d6",
+      "txhash": [
+        "a3d299319271f9eb9cdb8b11497b39801637bc3f"
+      ]
+    }
+  },
+  "tx": {
+    "a3d299319271f9eb9cdb8b11497b39801637bc3f": {
+      "BillionaireBabies": {
+        "0": [
+          [],
+          [],
+          []
+        ],
+        "14": [
+          [
+            22
+          ],
+          [
+            96
+          ],
+          []
+        ],
+        "9": [
+          [],
+          [],
+          []
+        ]
+      },
+      "BillionaireBabiesIncubator": {
+        "14": [
+          [],
+          [],
+          []
+        ],
+        "2": [
+          [
+            4,
+            5
+          ],
+          [],
+          [
+            110
+          ]
+        ]
+      }
+    }
+  }
+}
